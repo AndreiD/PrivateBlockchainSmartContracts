@@ -22,3 +22,5 @@ git commit -a -m "Update docs"
 
 # push to the origin
 git push origin gh-pages
+
+rm -rf _book/*
