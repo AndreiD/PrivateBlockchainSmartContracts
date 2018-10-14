@@ -1,5 +1,5 @@
 # PrivateBlockchainSmartContracts
-a book about smart contracts on private blockchains
+a book about smart contracts on private blockchains (UNDER DEVELOPMENT)
 
 <img src="https://github.com/AndreiD/PrivateBlockchainSmartContracts/raw/master/ethereumwallpaper.jpg">
 
@@ -17,6 +17,10 @@ To make sure a malicious signer cannot do too much harm to the network any signe
 The Ethereum Proof-of-Authority protocol is called Clique and is well described in the Clique Github issue. Ethereum currently uses this algorithm for the Rinkeby test network.
 
 In this book we will discuss writing Smart Contracts, that will work both on mainnet and on private blockchains, and setting up a private blockchain system using Ethereum's Proof of Authority Clique
+
+### Contribute with a chapter
+
+Wanna contribute with a chapter, get in touch
 
 ### Get in touch:
 
