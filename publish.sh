@@ -15,9 +15,9 @@ git clean -fx _book
 git add .
 
 # commit
-git commit -a -m "Update docs"
+git commit -a -m "Updateing the book :fire:"
 
 # push to the origin
-git push origin gh-pages
+git push origin gh-pages --force
 
 rm -rf _book/*
