@@ -2,9 +2,10 @@
 
 * [Introduction](README.md)
 * [Part I](chapter-1/README.md)
-  * Setting up
+  * [Setting up](/_book/chapter-1/content.html)
 * [Part II](chapter-2/README.md)
-  * Getting Started
+  * [Getting Started](/_book/chapter-2/content.md)
+* Part II      
 
 
 
