@@ -1,4 +1,5 @@
-# Introduction
+# Private Blockchains and Smart Contracts
+ 
 
 <img src="/static/ethereumwallpaper.jpg" style="object-fit: contain;">
 
